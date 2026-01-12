@@ -26,9 +26,37 @@ I focus on low-level systems to maximize performance and build automation tools 
 ---
 
 ### 🔥 Featured Projects
-- **[p4bot](https://github.com/Hyeonjoon-Nam/p4bot)**: Self-hosted Perforce automation toolkit (Submit Poller, Opened Watcher).
-- **[GAM250 Engine](https://github.com/Hyeonjoon-Nam/GAM250-TheyAre-Bastion)**: Custom C++ Game Engine utilizing Component-based architecture.
-- **[CUDA Journey](https://github.com/Hyeonjoon-Nam/Cuda-Study-Journey)**: Implementation of optimized GPU kernels (Matrix Mul, Reduction) with Nsight profiling.
+
+**1. GAM250 Engine (Custom C++ Game Engine)**
+> *Tech Lead (13 members) | Architecture & Core Systems*
+
+A custom 2D game engine built from scratch to support a large-scale student team project.
+* **Architecture:** Designed a **Component-based architecture** to ensure modularity and flexibility for gameplay programmers.
+* **Systems:** Implemented custom **Physics (AABB/Circle collision)**, **Rendering**, and integrated **ImGui** for debugging tools.
+* **Optimization:** Managed memory manually and optimized game loops for consistent frame rates.
+* **Repository:** [View Project](https://github.com/Hyeonjoon-Nam/GAM250-TheyAre-Bastion)
+
+<br/>
+
+**2. p4bot (Perforce Automation Toolkit)**
+> *Tools Programmer | Pipeline Automation*
+
+A self-hosted automation suite to bridge Perforce and Discord, improving team workflow efficiency.
+* **Submit Poller:** Automated changelist tracking and Discord notifications using **PowerShell**.
+* **Opened Watcher:** Real-time monitoring of checked-out files to prevent merge conflicts in exclusive-checkout environments.
+* **Slash Command:** Developed a Python-based Discord bot (`/canwork`) for instant file status checks.
+* **Repository:** [View Project](https://github.com/Hyeonjoon-Nam/p4bot)
+
+<br/>
+
+**3. CUDA Learning Journey (High-Performance Computing)**
+> *Individual Researcher | GPU Optimization*
+
+A deep dive into massive parallel computing and hardware-level optimizations.
+* **Optimization:** Implementing **Grid-Stride Loops**, **Shared Memory Tiling**, and **Warp-level Primitives**.
+* **Profiling:** Utilizing **NVIDIA Nsight Compute** to analyze memory throughput and occupancy.
+* **Goals:** Building a massive Boids simulation (100k+ agents) purely on GPU.
+* **Repository:** [View Project](https://github.com/Hyeonjoon-Nam/Cuda-Study-Journey)
 
 <br/>
 
