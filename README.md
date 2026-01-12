@@ -42,6 +42,3 @@ I focus on low-level systems to maximize performance and build automation tools 
 </div>
 
 <br/>
-
-### 📊 GitHub Stats
-![Hyeonjoon's Streak](https://streak-stats.demolab.com?user=Hyeonjoon-Nam&theme=default&hide_border=true)
