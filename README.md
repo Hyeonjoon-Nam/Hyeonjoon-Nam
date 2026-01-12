@@ -43,6 +43,5 @@ I focus on low-level systems to maximize performance and build automation tools 
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hyeonjoon-Nam&show_icons=true&theme=minimal&hide_border=true" alt="Hyeonjoon's GitHub stats" />
-</div>
+### 📊 GitHub Stats
+![Hyeonjoon's Stats](https://github-readme-stats.vercel.app/api?username=Hyeonjoon-Nam&show_icons=true&theme=minimal)
